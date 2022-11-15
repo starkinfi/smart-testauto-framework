@@ -78,3 +78,4 @@ public class SmartRegistry {
 		}
 	}
 }
+<a href="https://quartconsulting.com/smart-test-automation-framework/">Smart Test Automation Framework</a>
