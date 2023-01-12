@@ -90,3 +90,4 @@ Please refer <a href="https://github.com/mkrishna4u/smart-testauto-framework/wik
 Apache License, 2.0
 
 <a href="https://quartconsulting.com/smart-test-automation-framework/">Smart Test Automation Framework</a>
+<a href="https://discoveryengine.tech/cloud-security-providers/">Cloud Security Providers</a>
